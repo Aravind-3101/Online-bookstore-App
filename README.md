@@ -1,31 +1,29 @@
 # 📚 Online Bookstore – Java Full Stack Project
 
-🚧 *This project is under development.* Code will be uploaded soon.
+> 🚧 *This project is currently under development. Code will be uploaded soon.*
+
+A full stack web application for browsing, searching, and purchasing books. Includes user login, admin dashboard, and shopping cart features.
+
+---
 
 ## 🔧 Tech Stack
 
 - **Frontend**: React, Bootstrap, JavaScript
-- **Backend**: Java, Spring Boot, REST API
+- **Backend**: Java, Spring Boot, RESTful APIs
 - **Database**: MySQL
-- **Tools**: Postman, Maven, Git
+- **Tools**: Git, GitHub, Maven, Postman
 
-## 💡 Features Planned
+---
 
-- ✅ User registration & login
-- ✅ Browse & search books
-- ✅ Shopping cart and checkout
-- ✅ Admin dashboard to manage books
-- ✅ REST APIs for all major functions
+## 💡 Planned Features
 
-## 📌 Coming Soon
+- ✅ User Registration & Login with validation
+- ✅ View and search books by category or title
+- ✅ Add to Cart & Checkout flow
+- ✅ Admin panel to add/edit/delete books
+- ✅ RESTful API architecture using Spring Boot
+- ✅ Responsive design using Bootstrap
 
-- Code upload with complete backend and frontend
-- Database schema
-- Deployed demo link (via Netlify + Render)
-- Screenshots of working pages
+---
 
-## 🧑‍💻 Author
-
-**Aravind Kumar D**
-Java Full Stack Developer
-📧 mailtoaravind3101@gmail.com
+## 🏗️ Project Structure (Planned)
